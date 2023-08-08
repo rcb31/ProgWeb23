@@ -1,0 +1,56 @@
+body {
+    background-color: darkcyan;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+
+form {
+    background-color: aquamarine;
+    width: 50%;
+    padding: 20px;
+    margin-left: 100px;
+
+}
+
+form>p {
+    font-weight: bold;
+    font-size: larger;
+}
+.dato{
+    padding: 10px;
+}
+
+.checkbox {
+    margin-left: 10%;
+}
+
+.check {
+    font-weight: bold;
+    font-size: larger;
+}
+
+input[type="button"] {
+    border-radius: 10%;
+    height: 28px;
+    width: 135px;
+    display: block;
+    font-size: 15px;
+    background-color: aliceblue;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: larger;
+}
+
+h4 {
+    font-size: larger;
+}
